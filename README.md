@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ```Java
 Dev joaoDonato = Dev.builder()
       .academicEducation(null)
-      .workExperience(List.of("Java Developer in NRisk: November 2023 - Now"))
+      .workExperience(List.of("Java Developer in NRisk: Julho 2023 - Now"))
       .code(List.of("Java"))
       .tools(List.of("Spring Boot", "Swagger", "Docker", "RabbitMQ", "Maven", "JUnit"))
       .architecture(List.of("Microservices", "Hexagonal Architecture", "API REST"))
