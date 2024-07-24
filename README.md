@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVDonato&hide_progress=true)
+![Snake Animation](https://github.com/JoaoVDonato/JoaoVDonato/blob/output/github-contribution-grid-snake.svg)
+
 -->
 ```Java
 Dev joaoDonato = Dev.builder()
@@ -52,7 +54,7 @@ Dev joaoDonato = Dev.builder()
   <a href="www.linkedin.com/in/joao-donato-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-![Snake Animation](https://github.com/JoaoVDonato/JoaoVDonato/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](dist/github-contribution-grid-snake.svg)
 
 </div>
 
