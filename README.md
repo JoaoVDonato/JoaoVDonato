@@ -54,7 +54,7 @@ Dev joaoDonato = Dev.builder()
   <a href="www.linkedin.com/in/joao-donato-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-![Snake Animation](https://github.com/JoaoVDonato/JoaoVDonato/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/JoaoVDonato/JoaoVDonato/blob/output/github-snake-dark.svg?palette=github-dark)
 
 
 </div>
